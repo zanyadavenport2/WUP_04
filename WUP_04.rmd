@@ -69,7 +69,7 @@ par(mar = c(3, 17, 2, 2))
 plot(TukeyHSD(model1,conf.level=0.98),las=2)
 ```
 
-
+Looking at the graph we have a dotted line above zero the only thing it doesn't cut into is the difference between the LT high school and the Graduate school.
 
 
 # Discussion and Conclusion

@@ -63,6 +63,10 @@ model1 <- aov(WORDSUM~DEGREE,data=mydata)
 summary.aov(model1)
 ```
 
+The P value is 0.000236.
+
+
+
 
 # Discussion and Conclusion
 

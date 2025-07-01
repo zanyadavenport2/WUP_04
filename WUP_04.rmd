@@ -42,7 +42,7 @@ basicCN <- ggplot(mydata,aes(x=DEGREE,y=WORDSUM))
 basicCN + geom_boxplot()
 ```
 
-
+In the boxplot the LT highschool and highschool medians are under the junior college and bachelor schools.
 
 ### Numerical Descriptive Results
 

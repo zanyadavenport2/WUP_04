@@ -64,6 +64,10 @@ summary.aov(model1)
 ```
 
 The P value is 0.000236.
+```{r}
+par(mar = c(3, 17, 2, 2))
+plot(TukeyHSD(model1,conf.level=0.98),las=2)
+```
 
 
 
